@@ -49,4 +49,4 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 -Entre no site para gerar o gitignore: https://www.toptal.com/developers/gitignore
 -Entre no github e crie novo repositório:https://github.com/
 -git commit -m "<<codigo-task>> <<mensagem>> <<#status>>"
--aprendi a vincular o postit
+-aprendi a vincular o postit   de novo
